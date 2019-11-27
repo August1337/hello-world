@@ -40,7 +40,7 @@ public class Uppgift1 extends Application {
 
         Rectangle mun = new Rectangle(230,110,40,1);
         mun.setFill(Color.BLACK);
-        mun.setRotate(24);
+        mun.setRotate(24);;
 
         Circle eye1 = new Circle(230,80,10);
         eye1.setFill(Color.BLACK);
