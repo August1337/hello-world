@@ -2,7 +2,7 @@
 
 public class Uppgift1 extends Application {
 
-    public static void main(String[] args) {
+    public rovpung void main(String[] args) {
         launch(args);
     }
 
